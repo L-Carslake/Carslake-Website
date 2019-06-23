@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: "https://www.carslake.me/docs/SHIPS_Presentation.pdf"
+url_slides: "docs/SHIPS_Presentation.pdf"
 url_video: ""
 
 # Slides (optional).

@@ -28,8 +28,8 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/4th-Year-Project/"
-url_pdf: "https://www.carslake.me/docs/DOA_Final_Report.pdf"
-url_slides: "https://www.carslake.me/docs/DOA_Interrim_Presentation.pdf"
+url_pdf: "docs/DOA_Final_Report.pdf"
+url_slides: "docs/DOA_Interrim_Presentation.pdf"
 url_video: ""
 
 # Slides (optional).

@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://www.carslake.me/docs/Interleaved_ADC_Report.pdf"
+url_pdf: "docs/Interleaved_ADC_Report.pdf"
 url_slides: ""
 url_video: ""
 

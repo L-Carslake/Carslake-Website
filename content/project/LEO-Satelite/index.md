@@ -27,7 +27,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://www.carslake.me/docs/Small_Sats_Report.pdf"
+url_pdf: "docs/Small_Sats_Report.pdf"
 url_slides: ""
 url_video: "https://www.sspi.org/articles/university-of-sheffield-team-designs-project-talaris-for-global-communications-services"
 
