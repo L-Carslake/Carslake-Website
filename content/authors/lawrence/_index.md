@@ -42,9 +42,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lawrence-carslake-172086138
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/Lawrence.carslake.me
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://www.facebook.com/Lawrence.carslake.me
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCjay8oFd6w0kiuUpXwUqYmA
