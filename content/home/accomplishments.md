@@ -19,33 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "Space & Satellite Professionals International"
+  organization_url = "https://www.sspi.org/cpages/home"
+  title = "2nd Place - UKSEDS Small Satelite design competition"
+  url = "https://www.carslake.me/docs/Small_Sats_Report.pdf"
+  certificate_url = "https://www.sspi.org/articles/university-of-sheffield-team-designs-project-talaris-for-global-communications-services"
+  date_start = "2017-09-01"
   date_end = ""
-  description = ""
+  description = "As an entry for the \"UKSEDS Small Sats\" design competition 2017, we compiled a report into the design and feasibility of a small communications satellite constellation capable of providing 50 Mbps data connectivity to worldwide users. The report is linked here. We were successful in achieving the 2nd place prize for our entry."
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++
