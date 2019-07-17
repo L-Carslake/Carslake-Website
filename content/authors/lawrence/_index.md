@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Masters in Electronic Engineering with Communications
+  - course: 1st Class Masters in Electronic Engineering with Communications (MEng Hons)
     institution: The University of Sheffield
     year: 2019
 
