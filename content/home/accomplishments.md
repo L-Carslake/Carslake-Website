@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
   [[item]]
     organization = "University of Sheffield"
-    organization_url = "https://www.sheffield.ac.uk/
+    organization_url = "https://www.sheffield.ac.uk/"
     title = "Peter Hopkinson Prize"
     url = "https://www.sheffield.ac.uk/eee/news"
     certificate_url = ""
