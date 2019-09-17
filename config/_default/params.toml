@@ -175,14 +175,3 @@ sharing = true
   [comments.disqus]
     shortname = ""  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
-
- [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
-
- [mediaTypes."application/manifest+json"]
-    suffixes = ["webmanifest"]
-
- [outputFormats.WebAppManifest]
-   mediaType = "application/manifest+json"
-   rel = "manifest "  
