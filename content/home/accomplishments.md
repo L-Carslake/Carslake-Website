@@ -48,5 +48,14 @@ date_format = "Jan 2006"
       date_end = ""
       description = ""
 
+[[item]]
+  organization = "Glyn Technology School"
+  organization_url = "http://www.glynschool.org"
+  title = "A-Level (ABB) Maths, Further Maths and Physics"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-06-01"
+  date_end = ""
+  description = ""
 
 +++
