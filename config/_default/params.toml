@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "lawrence@carslake.me"
 phone = "07964091326"
-address = "West One Peak, 15 Cavendish Street, Sheffield, S3 7SR"
+address = "Amberley Gardens, Epsom, Surrey, KT19 0NQ"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""
