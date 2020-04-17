@@ -6,7 +6,7 @@ summary: "Discrete logic & PCB design"
 authors: ["lawrence"]
 tags: ["complete"]
 categories: []
-date: 2015-05-1T14:22:43+01:00
+date: 2015-05-01T14:22:43+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -9,7 +9,7 @@ categories: []
 date: 2020-04-17T11:38:56+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "recipes.carslake.me"
+external_link: "[https://recipes.carslake.me](https://recipes.carslake.me)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
