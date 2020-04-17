@@ -76,7 +76,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "lawrence@carslake.me"
 phone = "07964091326"
-address = {street = "", city = "Richmond", region = "Surrey", postcode = "", country = "United Kingdom", country_code = "UK"}
+address = {street = "", city = "Richmond", region = "Surrey", postcode = "TW10 6EY", country = "United Kingdom", country_code = "UK"}
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """"""
 
