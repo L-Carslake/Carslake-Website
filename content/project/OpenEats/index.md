@@ -9,7 +9,7 @@ categories: []
 date: 2020-04-17T11:38:56+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "[https://recipes.carslake.me](https://recipes.carslake.me)"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+A self hosted repository for my recipe collection. Based around an open source project. Hosted within a docker container incorportaing a nginx reverse proxy, Mariadb database and Django API. Check it out: [https://recipes.carslake.me](https://recipes.carslake.me)
